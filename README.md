@@ -1,4 +1,4 @@
-## Python Django for AWS Development - Master course - Part 1
+## Python Django for AWS Development - Master course - Part 1 ♾️💻
 
 Check out the course [here](https://www.udemy.com/course/python-django-for-aws-development-mastery-course-part-1/)
 
